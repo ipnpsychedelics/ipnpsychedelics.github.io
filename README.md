@@ -13,7 +13,7 @@ The Intercollegiate Psychedelics Network (IPN) is a student run umbrella organiz
 # IPN Mycelial Network
 (as of January 5th, 2019)
 
-roughly in reverse order of sporing with IPN~ questions can be directed to _'ipnpsychedelics@gmail.com'_
+roughly in reverse order of sporing with IPN~ questions can be directed to `ipnpsychedelics@gmail.com`
 
 - **University of Lausanne**:
   - Contacts: `Federico Seragnoli`, `Adam Amrani`
