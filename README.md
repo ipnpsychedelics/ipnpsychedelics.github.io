@@ -14,11 +14,11 @@ IPN is distributed, non-hiearchical, non-domineering, non-dogmatic; we are conne
 
 ## Feature Event: 
 #### 🤲[Intercollegiate Psychedelics Summit (IPS) 2020](https://paradiseinstitute.org) <br/> 🍄
-> 🔗Harvard University, _Boston, MA_ <br />
-> 📅April 17-20, 2020 <br/>
-> 👋in collaboration with: Harvard University <> Intercollegiate Psychedelics Network (IPN) <br/>
+> 🔗 Harvard University, Boston, MA <br />
+> 📅 April 17-20, 2020 <br/>
+> 👋 in collaboration with: Harvard University <> Intercollegiate Psychedelics Network (IPN) <br/>
 The second annual Intercollegiate Psychedelics Summit, IPS 2020 - The Convergnece: co-creating the future @ Harvard University is officially confirmed! Use code “paradise” for early preview; note: site is work in progress, and we invite any suggestions and comments at  `ipnpsychedelics@gmail.com`
-> 🔍in the spirit of radical transparency, also see work in progress speaker list [here](https://docs.google.com/spreadsheets/d/18h7xWUfHngbq_OEHMXNx4U-VlQyW0Am0vawQzsf6NfA/edit?usp=sharing)
+> 🔍 in the spirit of radical transparency, also see work in progress speaker list [here](https://docs.google.com/spreadsheets/d/18h7xWUfHngbq_OEHMXNx4U-VlQyW0Am0vawQzsf6NfA/edit?usp=sharing)
 
 
 # IPN Mycelial Network
