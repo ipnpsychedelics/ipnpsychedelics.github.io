@@ -12,7 +12,7 @@ IPN is distributed, non-hiearchical, non-domineering, non-dogmatic; we are conne
 - further drug decriminalization efforts in service of furthering responsible psychedelics research
 - cultivate mentorship between and amongst students and professiona
 
-## Feature Event: 
+## Featured Event: 
 #### [Intercollegiate Psychedelics Summit (IPS) 2020](https://paradiseinstitute.org): The Convergnece: co-creating the future <br/>
 🤲🍄🌈❤️ <br />
 > 🔗 Harvard University, Boston, MA <br />
