@@ -5,9 +5,9 @@ The Intercollegiate Psychedelics Network (IPN) is a student run umbrella organiz
 IPN is distributed, non-hiearchical, non-domineering, non-dogmatic; we are connected by foundational principles of radical transparency, mindful presence, iterative growth, commitment to ethics, and boundless love; we do not know all the answers and do not assume our current approach is the "one true approach"; we strive to adapt and integrate opinions of the public, experts, collegiate institutions, and grow together in the true spirit of co-creation; we are always open to ideas, suggestions, and criticisms; we believe if we are thoughtful and proceed with cautious optimisim, we can co-create together a more connectedness and blissful future~
 
 ## Feature Event: 
-🤲🍄[INTERCOLLEGIATE PSYCHEDELICS SUMMIT 2020](https://paradiseinstitute.org); 
-🔍BOSTON, MA; APRIL 17-20, 2020
-👋@HARVARD UNIVERSITY <> INTERCOLLEGIATE PSYCHEDELICS NETWORK
+🤲🍄[INTERCOLLEGIATE PSYCHEDELICS SUMMIT 2020](https://paradiseinstitute.org);  
+🔍BOSTON, MA; APRIL 17-20, 2020  
+👋@HARVARD UNIVERSITY <> INTERCOLLEGIATE PSYCHEDELICS NETWORK  
 The second annual Intercollegiate Psychedelics Summit, IPS 2020 - The Convergnece: co-creating the future @ Harvard University is officially confirmed! Use code “paradise” for early preview; note: site is work in progress, and we invite any suggestions and comments at  `ipnpsychedelics@gmail.com`
 
 
