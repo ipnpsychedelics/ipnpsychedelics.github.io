@@ -1,4 +1,4 @@
-# Intercollegaite Psychedelics Network (IPN)
+# Intercollegiate Psychedelics Network (IPN)
 
 The Intercollegiate Psychedelics Network (IPN) is a student run umbrella organization that supports collegiate psychedelic student groups and intercollegiate efforts. We strive to support collaboration among college students and envision an academic community that inspires a philosophically motivated and scientifically rigorous study of psychedelics, and more broadly, consciousness; we hope through our work to encourage public awareness of the science, policy, and clinical applications of psychedelics and related substances.
 
@@ -10,10 +10,10 @@ The Intercollegiate Psychedelics Network (IPN) is a student run umbrella organiz
 - Further drug decriminalization efforts in service of furthering responsible psychedelics research
 - Cultivate mentorship between and amongst students and professiona
 
-# The Mycelial Network
+# IPN Mycelial Network
 (as of January 5th, 2019)
 
-roughly in reverse order of joining IPN~ questions can be directed to ipnpsychedelics@gmail.com
+roughly in reverse order of sporing with IPN~ questions can be directed to _'ipnpsychedelics@gmail.com'_
 
 - **University of Lausanne**:
   - Contacts: Federico Seragnoli, Adam Amrani
