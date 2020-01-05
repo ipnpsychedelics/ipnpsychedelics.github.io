@@ -15,11 +15,11 @@ The Intercollegiate Psychedelics Network (IPN) is a student run umbrella organiz
 
 roughly in reverse order of sporing with IPN~ questions can be directed to _'ipnpsychedelics@gmail.com'_
 
-- ### **University of Lausanne**:
+- **University of Lausanne**:
   - Contacts: `Federico Seragnoli`, `Adam Amrani`
-- ### **University of Oxford**
+- **University of Oxford**
   - Contacts: `Pedro Philip`, `Alex Renaud`
-- ### **University of Greenwich**
+- **University of Greenwich**
   - Contacts: `Pascal < 🍄 >`, `Jessica < 🍄 >`, `Aimée < 🍄 >`
 - ### **West Virginia University (WVU)**
   - Also affiliated with SSDP
