@@ -21,14 +21,14 @@ roughly in reverse order of sporing with IPN~ questions can be directed to `ipnp
   - Contacts: `Pedro Philip`, `Alex Renaud`
 - **University of Greenwich**
   - Contacts: `Pascal < 🍄 >`, `Jessica < 🍄 >`, `Aimée < 🍄 >`
-- ### **West Virginia University (WVU)**
+- #### **West Virginia University (WVU)**
   - Also affiliated with SSDP
   - Contact: Aaron Borho
-- ### **Stanford Business School**
+- #### **Stanford Business School**
   - Contact: Jennifer Ouyang
-- ### **Stanford University**
+- #### **Stanford University**
   - Contact: Vivian Ho
-- ### **Yale University**
+- #### **Yale University**
  - Contact: Nancy Wu
 - ### **UC Colorado Springs**
   - Conacts: Max < 🍄 >, Anthony < 🍄 >
