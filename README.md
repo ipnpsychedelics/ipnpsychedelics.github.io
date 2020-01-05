@@ -25,7 +25,7 @@ roughly in reverse order of sporing with IPN~ questions can be directed to `ipnp
   - Contacts: `Pascal < 🍄 >`, `Jessica < 🍄 >`, `Aimée < 🍄 >`
 - **West Virginia University (WVU)**
   - Also affiliated with SSDP
-  - Contact: [`Aaron Borho`](aaron.borho1@gmail.com)
+  - Contact: [`Aaron Borho`](mailto:aaron.borho1@gmail.com)
 - **Stanford Business School**
   - Contact: `Jennifer Ouyang`
 - **Stanford University**
@@ -40,7 +40,7 @@ roughly in reverse order of sporing with IPN~ questions can be directed to `ipnp
   - Conact: `Haley Maria Dourron`
 - **California Institute of Integral Studies (CIIS)**
   - Also SSDP Chapter
-  - Contact: [`Katie Stone`](ktstone@mymail.ciis.edu) (Also affiliated with SSDP)
+  - Contact: [`Katie Stone`](mailto:ktstone@mymail.ciis.edu) (Also affiliated with SSDP)
 - **Ohio State University (OSU)**
   - Contacts: `Christian Lynch`, `Lake Lamb`, `Andrew Quigley`, `Michelle Menkoff`, `Tavis Barton`
 - **UC Boulder**
@@ -49,16 +49,16 @@ roughly in reverse order of sporing with IPN~ questions can be directed to `ipnp
 - **University College London (UCL)**: [Society for the Applications of Psychedelics (SAP)](http://studentsunionucl.org/clubs-societies/application-of-psychedelics)
   - Contacts: `Tinya Chang`, `Nastasia Ilina`, `Ivan Filippov`, `Noah Eckstein`, `George Blackburn`
 - **Texas Tech University (TTU)**
-  - Contact: [`Christian Giovanni Maldonado`](Giovanni.Maldonado@ttu.edu)
+  - Contact: [`Christian Giovanni Maldonado`](mailto:Giovanni.Maldonado@ttu.edu)
 - **University of Conneticuit (UConn)**
   - Contacts: `Joel Lopez`
 - **Princeton University**: [Princeton Psychonautics Club (P-PsyC)](https://www.facebook.com/PrincetonPsychonautics/)
-  - Contacts: [`Elin Alstrand`](ea4@princeton.edu), `Schuyler Kean`
+  - Contacts: [`Elin Alstrand`](mailto:ea4@princeton.edu), `Schuyler Kean`
 - **Harvard University**: [Harvard Science of Psychedelics Club (HSPC)](https://bit.ly/harvard-psychedelics)
-  - Contacts: [`Kenneth Shinozuka`](shinozuka@college.harvard.edu), `Andrew Zuckerman`, `JJ Andrade`
+  - Contacts: [`Kenneth Shinozuka`](mailto:shinozuka@college.harvard.edu), `Andrew Zuckerman`, `JJ Andrade`
 - **University of Pennsylvania (Penn)**: [Penn Society for Psychedelic Science (PSPS)](https://pennpsychedelics.org)
   - Also SSDP chapter
-  - Contacts: [`Emily Cribas`](ecribas@pennmedicine.upenn.edu), [`Rahul Sood`](rsoo@wharton.upenn.edu), [`Victor Acero`](acero@seas.upenn.edu), `Margaret < 🍄 >`, [`Alex Zhao`](alexzhao@seas.upenn.edu)
+  - Contacts: [`Emily Cribas`](mailto:ecribas@pennmedicine.upenn.edu), [`Rahul Sood`](mailto:rsoo@wharton.upenn.edu), [`Victor Acero`](mailto:acero@seas.upenn.edu), `Margaret < 🍄 >`, [`Alex Zhao`](mailto:alexzhao@seas.upenn.edu)
   - Email: `pennpsychedelics@gmail.com`
 
 
