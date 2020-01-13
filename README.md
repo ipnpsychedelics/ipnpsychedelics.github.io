@@ -30,8 +30,8 @@ all communications {ideas, questions, suggestions ... } can be directed to `ipnp
 
 - **University of Lausanne**:
   - Contacts: `Federico Seragnoli`, `Adam Amrani`
-- **University of Oxford**
-  - Contacts: `Pedro Philip`, `Alex Renaud`
+- **University of Oxford**: [Oxford University Psychedelics Society (OUPS)](https://oxpsysoc.org/)
+  - Contacts: `Pedro Philip`
 - **University of Greenwich**
   - Contacts: `Pascal < 🍄 >`, `Jessica < 🍄 >`, `Aimée < 🍄 >`
 - **West Virginia University (WVU)**
