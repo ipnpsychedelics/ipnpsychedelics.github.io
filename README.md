@@ -83,7 +83,7 @@ all communications {ideas, questions, suggestions ... } can be directed to `ipnp
   - Project leads: [Yev Barkalov](https://yevbar.github.io/) (@yevbar), [Alex Zhao](https://alextzhao.io) (@alextzhao)
 - [**Psychedelics Clubs Documentary**](https://psychedelicclubdoc.com/)
   - Please kindly direct questions to [Wendi Yan](wendiy@princeton.edu) with [IPN](ipnpsychedelics@gmail.com) cc'ed
-  - Also see
+  - Also see [project funding page](https://www.indiegogo.com/projects/the-psychedelic-club-a-documentary#/)
   - Project stage: _ongoing_
   - Project lead: [Wendi Yan](https://wendiyan.com/)
 - **Psychedelic Mixtapes**: exploring the intersection of psychedelics and music. We believe music has tremendous power in creating and nurturing transformative experiences. We like to jokingly call ourselves “Qualia Engineers”.
