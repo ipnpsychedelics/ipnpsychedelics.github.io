@@ -2,7 +2,7 @@
 
 The Intercollegiate Psychedelics Network (IPN) is a student run umbrella organization that supports collegiate psychedelic student groups and intercollegiate efforts. We strive to support collaboration among college students and envision an academic community that inspires a philosophically motivated and scientifically rigorous study of psychedelics, and more broadly, consciousness; we hope through our work to encourage public awareness of the science, policy, and clinical applications of psychedelics and related substances.
 
-IPN is distributed, non-hiearchical, non-domineering, non-dogmatic; we are connected by foundational principles of radical transparency, mindful presence, iterative growth, commitment to ethics, and boundless love; we do not know all the answers and do not assume our current approach is the "one true approach"; we strive to adapt and integrate opinions of the public, experts, collegiate institutions, and grow together in the true spirit of co-creation; we are always open to ideas, suggestions, and criticisms; we believe if we are thoughtful and proceed with cautious optimisim, we can co-create together a more connected and blissful future~
+IPN is distributed, non-hierarchical, non-domineering, non-dogmatic; we are connected by foundational principles of radical transparency, mindful presence, iterative growth, commitment to ethics, and boundless love; we do not know all the answers and do not assume our current approach is the "one true approach"; we strive to adapt and integrate opinions of the public, experts, collegiate institutions, and grow together in the true spirit of co-creation; we are always open to ideas, suggestions, and criticisms; we believe if we are thoughtful and proceed with cautious optimism, we can co-create together a more connected and blissful future~
 
 #### The Intercollegiate Psychedelics Network strives to:
 - support member organizations however member organizations define support
@@ -44,11 +44,11 @@ all communications {ideas, questions, suggestions ... } can be directed to `ipnp
 - **Yale University**
   - Contact: `Nancy Wu`
 - **UC Colorado Springs**
-  - Conacts: `Max < 🍄 >`, `Anthony < 🍄 >`
+  - Contacts: `Max < 🍄 >`, `Anthony < 🍄 >`
 - **Colorado State University-Fort Collins**
   - Contact: `Teresa < 🍄 >`
 - **Georgia State University**
-  - Conact: `Haley Maria Dourron`
+  - Contact: `Haley Maria Dourron`
 - **California Institute of Integral Studies (CIIS)**
   - Also SSDP Chapter
   - Contact: [`Katie Stone`](mailto:ktstone@mymail.ciis.edu) (Also affiliated with SSDP)
@@ -61,7 +61,7 @@ all communications {ideas, questions, suggestions ... } can be directed to `ipnp
   - Contacts: `Tinya Chang`, `Nastasia Ilina`, `Ivan Filippov`, `Noah Eckstein`, `George Blackburn`
 - **Texas Tech University (TTU)**
   - Contact: [`Christian Giovanni Maldonado`](mailto:Giovanni.Maldonado@ttu.edu)
-- **University of Conneticuit (UConn)**
+- **University of Connecticut (UConn)**
   - Contacts: `Joel Lopez`
 - **Princeton University**: [Princeton Psychonautics Club (P-PsyC)](https://www.facebook.com/PrincetonPsychonautics/)
   - Contacts: [`Elin Alstrand`](mailto:ea4@princeton.edu), `Schuyler Kean`
