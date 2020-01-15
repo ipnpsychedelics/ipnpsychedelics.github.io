@@ -10,7 +10,7 @@ IPN stives to be distributed, non-hierarchical, non-domineering, and non-dogmati
 - encourage a more nuanced public discourse about the science of psychedelics
 - establish rigorous research trials at member universities
 - further drug decriminalization efforts in service of furthering responsible psychedelics research
-- cultivate mentorship between and amongst students and professiona
+- cultivate mentorship between and amongst students and professionals
 
 ## Featured Event: 
 #### [Intercollegiate Psychedelics Summit (IPS) 2020](https://paradiseinstitute.org): The Convergnece: co-creating the future <br/>
