@@ -74,14 +74,20 @@ all communications {ideas, questions, suggestions ... } can be directed to `ipnp
 
 
 # Projects
-- [**Intercollegiate Psychedelics Summit (IPS) 2020 @ Harvard University**](https://paradiseinstitute.org); April 17 - 20, 2020); for speaker lists and work in progress details, see [here](https://paradiseinstitute.org)
-  - project stage: _ongoing_
-- [**EveryQualia**](https://www.everyqualia.org/); (psychedelics) report search engine; currently ~10K trip reports from everyqualia; also see [psychedelicNLP](https://github.com/alextzhao/psychedelicNLP) for work in progress natural language processing (NLP) technology to be integrated into search engine;
-  - project stage: _ongoing_
-- **Psychedelics Club Documentary (in progress)**; please kindly direct questions to [Wendi Yan](wendiy@princeton.edu) with [IPN](ipnpsychedelics@gmail.com) cc'ed
-  - project stage: _ongoing_
+- [**Intercollegiate Psychedelics Summit (IPS) 2020 @ Harvard University**](https://paradiseinstitute.org); 
+  - April 17 - 20, 2020; for speaker lists and work in progress details, see [here](https://paradiseinstitute.org)
+  - Project stage: _ongoing_
+- [**EveryQualia**](https://www.everyqualia.org/)
+  - (psychedelics) report search engine; currently ~10K trip reports from everyqualia; also see [psychedelicNLP](https://github.com/alextzhao/psychedelicNLP) for work in progress natural language processing (NLP) technology to be incorporated into the search engine;
+  - Project stage: _ongoing_
+  - Project leads: [Yev Barkalov](https://yevbar.github.io/) (@yevbar), [Alex Zhao](https://alextzhao.io) (@alextzhao)
+- [**Psychedelics Clubs Documentary**](https://psychedelicclubdoc.com/)
+  - Please kindly direct questions to [Wendi Yan](wendiy@princeton.edu) with [IPN](ipnpsychedelics@gmail.com) cc'ed
+  - Also see
+  - Project stage: _ongoing_
+  - Project lead: [Wendi Yan](https://wendiyan.com/)
 - **Psychedelic Mixtapes**: exploring the intersection of psychedelics and music. We believe music has tremendous power in creating and nurturing transformative experiences. We like to jokingly call ourselves “Qualia Engineers”.
-  - Project Stage: _early_, _ongoing_
+  - Project Stage: _early_
   
 Also see work in progress documentation for **IPNLabs** (an innovative lab for psychedelic projects within the umbrella of the Intercollegiate Psychedelics Network) [here](https://docs.google.com/document/d/1TJb5Y7a4AKiXckpVOs6ES_BQ1y1nY3lGWjpHorJyjsg/edit?usp=sharing); all readers are invited to comment directly on the file and give real time feedback
 
